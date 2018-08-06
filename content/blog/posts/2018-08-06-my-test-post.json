@@ -1,0 +1,7 @@
+{
+  "title": "My Test Post",
+  "date": "Monday August 6th, 2018",
+  "thumbnail": "/images/uploads/belief.jpg",
+  "category": "cat1",
+  "body": "# Heading 1\n\n## Heading 2\n\n`var a = 'string'\n\n- item 1\n- item 2\n\n"
+}
